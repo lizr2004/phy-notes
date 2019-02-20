@@ -3,3 +3,7 @@ authors = ["lizr2004"]
 multilingual = false
 src = "src"
 title = "phy"
+
+[output.html]
+mathjax-support = true
+
